@@ -1,19 +1,21 @@
 # SnakeGame
 
-This is a classic Snake game implemented in Java using Java GUI. The game features different levels of difficulty, high score storage in a database, and multiple functionalities accessible through a user-friendly interface.
+This is a classic Snake game implemented in Java using Java GUI. The game features different levels of difficulty, sound effects, high score storage in a database, and multiple functionalities accessible through a user-friendly interface.
 
 Features:       
 Start Game: Begin a new game of Snake.                          
 Levels: Choose from three difficulty levels: Easy, Medium, and Hard.          
-High Scores: View the high scores stored in a database.              
+High Scores: View the high scores stored in a database.  
+Sound Effects: Enjoy sound effects that enhance the gaming experience.     
 Help: Access the game instructions and controls.             
 Exit: Exit the game.             
 
 Technologies Used:     
-Java: Core language used for game logic.
-Java GUI: For creating the graphical user interface.
-Threads: Used for handling game loop and animations.
-JDBC: For connecting and interacting with the database to store high scores.
+Java: Core language used for game logic.      
+Java GUI: For creating the graphical user interface.    
+Threads: Used for handling game loop and animations.    
+JDBC: For connecting and interacting with the database to store high scores.      
+Sound: Integrated sound effects for a better user experience.     
 
 How to use:     
 1.Clone the repository.     

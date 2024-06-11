@@ -46,14 +46,20 @@ e: Exit the game.
 
 Photos:
 
+image-1
 ![Screenshot 2024-06-11 113216](https://github.com/Arjun-Dalavayi/Practise/assets/159019136/181ccc58-38a4-4b03-8246-425d609b87a0)
 
+image-2
 ![Screenshot 2024-06-11 113824](https://github.com/Arjun-Dalavayi/Practise/assets/159019136/6467af70-8812-4a81-b24b-8c7b0fdc8160)
 
+image-3
 ![Screenshot 2024-06-11 113255](https://github.com/Arjun-Dalavayi/Practise/assets/159019136/6add0bd6-3f99-452c-b34a-a97a21438877)
 
+image-4
 ![Screenshot 2024-06-08 120733](https://github.com/Arjun-Dalavayi/Practise/assets/159019136/8ea72407-1196-4a39-af7f-b68a759b4cf8)
 
+image-5
 ![Screenshot 2024-06-11 113716](https://github.com/Arjun-Dalavayi/Practise/assets/159019136/5591cbb8-3804-4620-9483-44d9ba1a55b0)
 
+image-6
 ![Screenshot 2024-06-11 113758](https://github.com/Arjun-Dalavayi/Practise/assets/159019136/5063e9c7-5f46-4fa7-8386-efc9bcbb4120)

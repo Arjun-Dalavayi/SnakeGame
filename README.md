@@ -46,20 +46,23 @@ e: Exit the game.
 
 Photos:
 
-image-1
-![Screenshot 2024-06-11 113216](https://github.com/Arjun-Dalavayi/Practise/assets/159019136/181ccc58-38a4-4b03-8246-425d609b87a0)
+Image-1   
+![Screenshot 2024-06-11 113216](https://github.com/Arjun-Dalavayi/Hotel-Room-Management/assets/159019136/2569887d-0090-4e4d-82d3-68e9a8783333)
 
-image-2
-![Screenshot 2024-06-11 113824](https://github.com/Arjun-Dalavayi/Practise/assets/159019136/6467af70-8812-4a81-b24b-8c7b0fdc8160)
+Image-2   
+![Screenshot 2024-06-11 113255](https://github.com/Arjun-Dalavayi/Hotel-Room-Management/assets/159019136/488fc299-a963-48e3-8af5-c6a9b4226886)
 
-image-3
-![Screenshot 2024-06-11 113255](https://github.com/Arjun-Dalavayi/Practise/assets/159019136/6add0bd6-3f99-452c-b34a-a97a21438877)
+Image-3   
+![Screenshot 2024-06-11 113824](https://github.com/Arjun-Dalavayi/Hotel-Room-Management/assets/159019136/38224b60-a494-4348-9c99-9b7425858dbd)
 
-image-4
-![Screenshot 2024-06-08 120733](https://github.com/Arjun-Dalavayi/Practise/assets/159019136/8ea72407-1196-4a39-af7f-b68a759b4cf8)
+Image-4     
+![Screenshot 2024-06-08 120733](https://github.com/Arjun-Dalavayi/Hotel-Room-Management/assets/159019136/bce346d2-712e-434d-8eaa-75672b6e4e27)
 
-image-5
-![Screenshot 2024-06-11 113716](https://github.com/Arjun-Dalavayi/Practise/assets/159019136/5591cbb8-3804-4620-9483-44d9ba1a55b0)
+Image-5    
+![Screenshot 2024-06-11 113716](https://github.com/Arjun-Dalavayi/Hotel-Room-Management/assets/159019136/13456e07-ceca-40c0-bc7e-986e7a1a2836)
 
-image-6
-![Screenshot 2024-06-11 113758](https://github.com/Arjun-Dalavayi/Practise/assets/159019136/5063e9c7-5f46-4fa7-8386-efc9bcbb4120)
+Image-6    
+![Screenshot 2024-06-11 113758](https://github.com/Arjun-Dalavayi/Hotel-Room-Management/assets/159019136/611bf0ca-a0db-4eea-8ceb-a40ec73302f2)
+
+
+
